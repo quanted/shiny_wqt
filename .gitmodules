@@ -1,0 +1,3 @@
+[submodule "wq_screen"]
+	path = wq_screen
+	url = https://github.com/quanted/wq_screen.git
